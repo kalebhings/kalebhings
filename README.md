@@ -55,8 +55,3 @@ Here are a few of the projects I'm most proud of, showcasing my hands-on experie
 * **Tech:** Python, TensorFlow, Keras, Transfer Learning (InceptionV3), Scikit-learn, Pandas, NumPy.
 * **Impact:** Achieved **98% accuracy** in classifying MRI images, outperforming baseline custom CNNs.
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalebhings&layout=compact&theme=radical&hide_border=true&count_private=true&langs_count=6" height="150" alt="languages graph" />
-</div>
