@@ -12,9 +12,10 @@ My passion lies at the intersection of **AI/Machine Learning, Backend Developmen
 
 ## 🏆 Certifications
 
-I am 3x AWS Certified, demonstrating proficiency in cloud architecture and artificial intelligence.
+I am 4x AWS Certified, demonstrating proficiency in cloud architecture and artificial intelligence.
 
 <p align="center">
+  <img src="https://images.credly.com/size/340x340/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" width="120" height="120" alt="AWS Certified Machine Learning Engineer – Associate">
   <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120" height="120" alt="AWS Certified Solutions Architect - Associate">
   <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="120" height="120" alt="AWS Certified AI Practitioner">
   <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120" height="120" alt="AWS Certified Cloud Practitioner">
